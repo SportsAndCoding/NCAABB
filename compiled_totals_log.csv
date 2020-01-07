@@ -15,7 +15,6 @@
 "14","monmouth-siena","Over","Under",0.58448,0,2020-01-03
 "15","temple-tulsa","Under","Over",0.559452,0,2020-01-03
 "16","iupui-uwmilwaukee","Over","Under",0.643336,0,2020-01-03
-"17","iupui-uwmilwaukee","Over","Under",0.643336,0,2020-01-03
 "18","georgiasouthern-appalachianst","Over","Under",0.537027,0,2020-01-04
 "19","arizonast-arizona","Under","Over",0.86433,0,2020-01-04
 "20","texasam-arkansas","Under","Over",0.725256,0,2020-01-04
@@ -103,7 +102,6 @@
 "102","ohio-westernmichigan","Over","Under",0.550323,0,2020-01-04
 "103","mississippi-wichitast","Under","Over",0.718317,0,2020-01-04
 "104","ncgreensboro-wofford","Over","Under",0.524595,0,2020-01-04
-"105","ncgreensboro-wofford","Over","Under",0.524595,0,2020-01-04
 "106","fairfiield-canisius","Under","Under",0.752419,1,2020-01-05
 "107","oregonst-colorado","Under","Over",0.718991,0,2020-01-05
 "108","wrightst-detroit","Under","Under",0.699496,1,2020-01-05
@@ -127,4 +125,10 @@
 "126","usc-washington","Under","Over",0.840078,0,2020-01-05
 "127","illinoischicago-uwmilwaukee","Under","Under",0.636981,1,2020-01-05
 "128","stjohns-xavier","Under","Under",0.539473,1,2020-01-05
-"129","stjohns-xavier","Under","Under",0.539473,1,2020-01-05
+"130","louisianalafayette-appalachianst","Over","Under",0.722555,0,2020-01-06
+"131","georgiasouthern-arkansaslittlerock","Over","Under",0.721764,0,2020-01-06
+"132","georgiast-arkansasst","Over","Under",0.563807,0,2020-01-06
+"133","louisianamonroe-coastalcarolina","Over","Under",0.711959,0,2020-01-06
+"134","westvirginia-oklahomast","Under","Under",0.532883,1,2020-01-06
+"135","southalabama-texasarlington","Under","Over",0.566051,0,2020-01-06
+"136","troy-texasst","Over","Under",0.757389,0,2020-01-06

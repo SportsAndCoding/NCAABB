@@ -15,7 +15,6 @@
 "14","monmouth-siena","siena","siena",0.848407,1,2020-01-03
 "15","temple-tulsa","tulsa","tulsa",0.797025,1,2020-01-03
 "16","iupui-uwmilwaukee","uwmilwaukee","uwmilwaukee",0.86558,1,2020-01-03
-"17","iupui-uwmilwaukee","uwmilwaukee","uwmilwaukee",0.86558,1,2020-01-03
 "18","georgiasouthern-appalachianst","appalachianst","georgiasouthern",0.611743,0,2020-01-04
 "19","arizonast-arizona","arizona","arizona",0.94954,1,2020-01-04
 "20","texasam-arkansas","arkansas","arkansas",0.770792,1,2020-01-04
@@ -103,7 +102,6 @@
 "102","ohio-westernmichigan","westernmichigan","westernmichigan",0.698535,1,2020-01-04
 "103","mississippi-wichitast","wichitast","wichitast",0.834205,1,2020-01-04
 "104","ncgreensboro-wofford","wofford","wofford",0.844016,1,2020-01-04
-"105","ncgreensboro-wofford","wofford","wofford",0.844016,1,2020-01-04
 "106","fairfiield-canisius","fairfiield","canisius",0.776629,0,2020-01-05
 "107","oregonst-colorado","oregonst","oregonst",0.684627,1,2020-01-05
 "108","wrightst-detroit","wrightst","wrightst",0.78515,1,2020-01-05
@@ -127,4 +125,10 @@
 "126","usc-washington","washington","usc",0.674741,0,2020-01-05
 "127","illinoischicago-uwmilwaukee","uwmilwaukee","uwmilwaukee",0.91997,1,2020-01-05
 "128","stjohns-xavier","xavier","xavier",0.688453,1,2020-01-05
-"129","stjohns-xavier","xavier","xavier",0.688453,1,2020-01-05
+"130","louisianalafayette-appalachianst","louisianalafayette","appalachianst",0.574162,0,2020-01-06
+"131","georgiasouthern-arkansaslittlerock","arkansaslittlerock","arkansaslittlerock",0.632662,1,2020-01-06
+"132","georgiast-arkansasst","arkansasst","arkansasst",0.855291,1,2020-01-06
+"133","louisianamonroe-coastalcarolina","coastalcarolina","coastalcarolina",0.886221,1,2020-01-06
+"134","westvirginia-oklahomast","westvirginia","oklahomast",0.605357,0,2020-01-06
+"135","southalabama-texasarlington","southalabama","texasarlington",0.579817,0,2020-01-06
+"136","troy-texasst","troy","texasst",0.851952,0,2020-01-06
